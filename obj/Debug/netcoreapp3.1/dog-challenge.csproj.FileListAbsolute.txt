@@ -1,0 +1,11 @@
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/obj/Debug/netcoreapp3.1/dog-challenge.csprojAssemblyReference.cache
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/obj/Debug/netcoreapp3.1/dog-challenge.AssemblyInfoInputs.cache
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/obj/Debug/netcoreapp3.1/dog-challenge.AssemblyInfo.cs
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge.deps.json
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge.runtimeconfig.json
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge.runtimeconfig.dev.json
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge.dll
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/bin/Debug/netcoreapp3.1/dog-challenge.pdb
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/obj/Debug/netcoreapp3.1/dog-challenge.dll
+/Users/Mac/Documents/IT2040_TFurrer/dog-challenge/obj/Debug/netcoreapp3.1/dog-challenge.pdb
